@@ -24,7 +24,7 @@ app.use(
   cors({
     origin: [
       process.env.CLIENT_URL || "http://localhost:5173",
-      "https://smart-complaint-client.onrender.com", // Update after Render deploy
+      "https://ai-complain-management-1.onrender.com",
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
