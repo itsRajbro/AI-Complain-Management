@@ -143,5 +143,5 @@ Open `http://localhost:5173`
 
 ## 👥 Author
 
+Ayush Raj
 B.Tech 4th Semester — AI308B (AI Driven Full Stack Development)
-ESE Examination 2025-26
